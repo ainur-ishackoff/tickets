@@ -1,0 +1,24 @@
+INFO:root:Создание или проверка файла базы данных tickets.db.
+INFO:root:Создание/проверка базы данных и таблицы завершена.
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot7087293809:AAGmxciLweDmwyqHU7LMPADpRKaZlLVtw0Q/getUpdates "HTTP/1.1 200 OK"
